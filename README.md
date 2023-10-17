@@ -19,8 +19,16 @@ Finally once you decided you had enough playing you will see the final statistic
 
 [Source Code](Practical_Project_Guess_The_Number.py)
 
+![image](https://github.com/LDeathN/GuessANumberByLDeathN/assets/140381179/c127b29d-879f-42ee-a974-d3c26d26dbab)
 
+![image](https://github.com/LDeathN/GuessANumberByLDeathN/assets/140381179/76576ad1-fcb8-44ca-a343-75dc0029c975)
 
+## Live Demo
 
+You can try the game directly in your Web browser here:
+
+[<img alt="Play Button" src="https://user-images.githubusercontent.com/85368212-d027f056-fc2b-47b7-bfad-8ff8a3aa7688.png" />](https://replit.com/@somaxy/GuessTheNumber)
+  
+![image](https://github.com/LDeathN/GuessANumberByLDeathN/assets/140381179/7f2b1ec5-c7ca-41df-ae7d-73797c8b8535)
 
 
