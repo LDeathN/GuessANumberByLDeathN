@@ -17,7 +17,7 @@ At the end of every game you will be asked if you want to start another one.
 
 Finally once you decided you had enough playing you will see the final statistics: games won; games played
 
-[Source Code](Practical_Project_Rock–Paper–Scissors.py)
+[Source Code](Practical_Project_Guess_The_Number.py)
 
 
 
